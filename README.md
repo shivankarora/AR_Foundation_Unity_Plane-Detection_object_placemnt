@@ -10,3 +10,9 @@ https://user-images.githubusercontent.com/63502234/155088350-e3c75702-62a8-476d-
 
 Shivank Arora
 RA1911003011013
+
+
+This set of sample relies on two Unity packages:
+
+Google ARCore XR Plug-in (documentation)
+ARFoundation (documentation)
