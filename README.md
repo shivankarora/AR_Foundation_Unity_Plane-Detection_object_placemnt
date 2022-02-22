@@ -14,11 +14,11 @@ RA1911003011013
 
 This set of sample relies on two Unity packages:
 
-Google ARCore XR Plug-in 
+Google ARCore XR Plug-in (https://docs.unity3d.com/Packages/com.unity.xr.arcore@5.0/manual/index.html)
 
 
 
-ARFoundation (https://docs.unity3d.com/Packages/com.unity.xr.arcore@5.0/manual/index.html)
+ARFoundation (https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@5.0/manual/index.html)
 
 
 ARSubsystems
