@@ -8,8 +8,16 @@ https://user-images.githubusercontent.com/63502234/155088056-4536e068-f5d2-4de1-
 https://user-images.githubusercontent.com/63502234/155088350-e3c75702-62a8-476d-858a-bddb3b439d1a.mp4
 
 
-Shivank Arora
-RA1911003011013
+RA1911003011013 - Shivank Arora
+
+
+RA1911030010138 - Dipali Singh
+
+
+RA1911033010152 - Grahil Agrawal
+
+
+Assignment 2
 
 
 This set of sample relies on two Unity packages:
