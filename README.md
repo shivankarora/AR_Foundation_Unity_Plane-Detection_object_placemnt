@@ -11,11 +11,6 @@ https://user-images.githubusercontent.com/63502234/155088350-e3c75702-62a8-476d-
 RA1911003011013 - Shivank Arora
 
 
-RA1911030010138 - Dipali Singh
-
-
-RA1911033010152 - Grahil Agrawal
-
 
 Assignment 2
 
